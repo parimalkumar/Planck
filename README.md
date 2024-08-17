@@ -1,2 +1,2 @@
 # Planck
-Library for quant finance written in pure Python
+Library for quant finance, ALM, LDI, CDI written in pure Python
